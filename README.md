@@ -13,10 +13,6 @@ cd kiteai
 npm install
 ```
 
-```
-npm install node-fetch
-```
-
 1- (Optional) Create a ```proxies.txt``` file for proxy support:
 
 ```
@@ -36,6 +32,14 @@ screen -S kiteai
 
 ```
 npm run start
+```
+# if not runing install 
+
+```
+npm install node-fetch
+npm install axios
+npm install chalk
+npm install figlet
 ```
 
 
