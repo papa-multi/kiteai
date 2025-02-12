@@ -49,7 +49,9 @@ npm install figlet
 You can modify the following settings in ```nano index.js```:
 
   ```rateLimitConfig```:  Adjust rate limiting parameters
+
    ``` agents```: Modify available AI agents
+
    ```intervalBetweenCycles```: Change delay between interaction cycles
 
 wait for 30 min until get point 
