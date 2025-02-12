@@ -6,6 +6,7 @@
 
 ``` 
 git clone https://github.com/papa-multi/kiteai.git
+cd kiteai
 ```
 
 ```
