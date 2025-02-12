@@ -5,7 +5,7 @@
  # Installation
 
 ``` 
-git clone  
+git clone https://github.com/papa-multi/kiteai.git
 ```
 
 ```
