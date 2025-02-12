@@ -7,5 +7,5 @@ export const banner = `
 ██╔═══╝ ██╔══██║██╔═══╝ ██╔══██║    ██║╚██╔╝██║██║   ██║██║     ██║   ██║    
 ██║     ██║  ██║██║     ██║  ██║    ██║ ╚═╝ ██║╚██████╔╝███████╗██║   ██║    
 ╚═╝     ╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝    ╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚═╝   ╚═╝    
-       ${chalk.yellow('KITE AI  AUTO - BOT')}                
+       ${chalk.yellow('KITE AI')}                
 📢  ${chalk.yellow('Telegram Channel: https://t.me/papa_multi')}`;     
